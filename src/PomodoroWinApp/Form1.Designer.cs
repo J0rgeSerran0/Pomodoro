@@ -227,7 +227,7 @@ namespace PomodoroWinApp
             this.numericUpDownBreakByRound.Size = new System.Drawing.Size(66, 27);
             this.numericUpDownBreakByRound.TabIndex = 24;
             this.numericUpDownBreakByRound.Value = new decimal(new int[] {
-            15,
+            20,
             0,
             0,
             0});
