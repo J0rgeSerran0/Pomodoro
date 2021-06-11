@@ -1,5 +1,9 @@
 # Pomodoro
-Pomodoro Windows App developed in .NET Core 5
+Pomodoro Windows Forms App
+
+## Requires
+- Visual Studio 2019 Version 16.9
+- .NET Core 5.0
 
 ## Quick introduction about Pomodoro
 The *Pomodoro Technique* suggests you how to be more productive in your tasks.
